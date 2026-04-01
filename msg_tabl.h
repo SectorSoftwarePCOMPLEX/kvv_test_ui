@@ -6,7 +6,7 @@
 #define msg_tabl_h
 
 // В MSG.H _Device_Name_ можно переименовать :
-#define _Device_Name_ "    -КТЕ5-А-    "
+#define _Device_Name_ "    -КТЕ5-А-    " rrrr
 
 //----------- А8 - Таблицы битовых уставок ---------------
 
